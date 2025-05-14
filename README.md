@@ -1,4 +1,5 @@
-# Statiscal Data Science Projects
+# Statistical Analysis & Predictive Modeling Projects
+
   - # Project 1: World Happiness Report: Statistical Analysis and Data Visualization
 This project provides an in-depth analysis of the World Happiness Report dataset, focusing on key indicators such as social support, healthy life expectancy, generosity, and freedom to make life choices. The analysis begins with a statistical summary of the dataset, including metrics like mean, sum, common values, and median for each indicator. Key relationships between variables are explored, particularly between social support and generosity.
 
