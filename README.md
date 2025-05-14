@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-006400?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6347?style=for-the-badge)
+
 # Statistical Analysis & Predictive Modeling Projects
 
   - # Project 1: World Happiness Report: Statistical Analysis and Data Visualization
